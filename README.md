@@ -10,7 +10,7 @@ Full code zip: indotrading-homepage.zip
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd indotrading-homepage
+    cd indotrading-homepage //the directory name
     ```
 3.  **Install NPM packages:**
     ```sh
